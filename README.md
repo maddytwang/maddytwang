@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maddytwang
-- 👀 I’m interested in using data to create tools for the music, customer analytics, and more.
-- 🌱 I’m currently studying Data Science at UC Berkeley.
-- 📫 How to reach me: email me at maddywang@berkeley.edu 
+- 🌱 Studying Data Science at UC Berkeley!
+- 📫 maddywang@berkeley.edu 
 
 <!---
 maddytwang/maddytwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
