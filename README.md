@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maddytwang
-- 🌱 Studying Data Science at UC Berkeley!
+- 🌱 B.A. Data Science, UC Berkeley
 - 📫 maddywang@berkeley.edu 
 
 <!---
